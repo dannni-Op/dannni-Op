@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dani</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3EdTkAXy4hIoGbojSfTXSL&ust=1716726133298000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPi52qzlqIYDFQAAAAAdAAAAABAo" alt="Coding" width="400" />
+<img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9522v4cwaln2a1abhh9hvat2amvn0cbfu3r0rxlmfmk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannni-op&label=Profile%20views&color=0e75b6&style=flat" alt="dannni-op" /> </p>
 
 - 🌱 I’m currently learning **Everything about technology**

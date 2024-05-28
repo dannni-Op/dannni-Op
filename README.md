@@ -1,4 +1,4 @@
-<img alig<h1 align="center">Hi 👋, I'm dani</h1>
+<h1 align="center">Hi 👋, I'm dani</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9522v4cwaln2a1abhh9hvat2amvn0cbfu3r0rxlmfmk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="300" />
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/daaani.op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daaani.op" height="30" width="40" /></a>
+<a href="https://instagram.com/daaani.Op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daaani.op" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
